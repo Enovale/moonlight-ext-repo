@@ -1,6 +1,6 @@
 {
   "repository": "https://github.com/Enovale/moonlight-extensions.git",
-  "commit": "adc5c64a56ee51ed733197c959658a96be7d5af9",
+  "commit": "218dd4bab8d03f8c6f1dc20e48f97de838c93d2a",
   "scripts": ["build", "repo"],
   "artifact": "repo/customChatButtons.asar"
 }
